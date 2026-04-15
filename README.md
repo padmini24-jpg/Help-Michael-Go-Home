@@ -1,6 +1,7 @@
 # Help Michael Go Home
 ## 📸 Game Screenshot
 ![Game Screenshot](Screenshot.png)
+Here’s a preview of gameplay with Michael navigating the maze while avoiding the ghost.
 
 A 3-level maze game built using Python and Pygame.
 
