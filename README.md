@@ -20,12 +20,10 @@ Help Michael collect coins, avoid the ghost, and reach the goal through all 3 le
 
 ## How to Run
 1. Install pygame:
-
-pip install pygame
+   1.1.pip install pygame
 
 2. Run the game:
-
-python first_pygame.py
+   2.1.python first_pygame.py
 
 
 ## Controls
