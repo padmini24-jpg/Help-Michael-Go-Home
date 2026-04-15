@@ -1,4 +1,6 @@
 # Help Michael Go Home
+## 📸 Game Screenshot
+![Game Screenshot](screenshot.png)
 
 A 3-level maze game built using Python and Pygame.
 
